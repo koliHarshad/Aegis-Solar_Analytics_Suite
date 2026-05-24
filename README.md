@@ -1,6 +1,6 @@
 # Aegis: Solar Analytics Suite ☀️🛰️
 
-Aegis is a data analytics project focused on cleaning, transforming, and analyzing 24 years of daily space weather and solar activity metrics (2000–2024). This repository contains the end-to-end data pipeline, from raw data preprocessing using Python and Pandas to producing a highly optimized dataset prepared for interactive dashboarding.
+Aegis is a data analytics project focused on basic cleaning, transforming, and analyzing 24 years of daily space weather and solar activity metrics (2000–2024). This repository contains the Python and Pandas scripts used to clean the raw data and Tableau workbook.
 
 🔗 **[View Interactive Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)** ---
 
