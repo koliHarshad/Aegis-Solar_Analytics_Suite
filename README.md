@@ -2,12 +2,15 @@
 
 Aegis is a data analytics project focused on basic cleaning, transforming, and analyzing 24 years of daily space weather and solar activity metrics (2000–2024). This repository contains the Python and Pandas scripts used to clean the raw data and Tableau workbook.
 
-🔗 **[View Interactive Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)** ---
-
 ## 📌 Project Overview
 Space weather has significant implications for satellite operations, power grids, and communication systems. The goal of **Aegis** is to process noisy raw data from the OMNI daily space weather database, handle missing placeholders properly, analyze fundamental solar correlations, and engineer features suitable for a data visualization layer.
 
 The cleaned dataset spans **9,132 days (24 years)** of continuous monitoring.
+
+---
+## Dashboard Preview 
+## <img width="1574" height="876" alt="Screenshot 2026-05-28 212820" src="https://github.com/user-attachments/assets/ee56d884-ceb4-41fd-adf1-aab4e4662bf6" />
+## <img width="1581" height="883" alt="Screenshot 2026-05-28 212832" src="https://github.com/user-attachments/assets/788b9168-8763-4bc8-9a5f-9d3c0e8379dc" />
 
 ---
 
